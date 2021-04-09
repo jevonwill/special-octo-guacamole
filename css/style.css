@@ -19,6 +19,9 @@
  */
 /* 1. Common styles */
 
+.bg-gold {
+    background-color: #fcc513;
+}
 
 body {
   font-family: Nunito;
